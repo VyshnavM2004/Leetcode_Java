@@ -7,9 +7,9 @@ This repository contains my Java solutions to LeetCode problems as I practice Da
 
 ## Progress
 
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1 | Two Sum | Easy | ✔️ |
+| # | Problem   | Difficulty | Solution |
+|---|-----------|------------|----------|
+| 1 | [Two Sum](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day1_TwoSum) | Easy | ✔️ |
 
 
 More solutions will be added regularly.
