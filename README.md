@@ -27,7 +27,7 @@ More solutions will be added regularly.
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vyshnav%20M-blue?logo=linkedin)](https://www.linkedin.com/in/vyshnav-m2311)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vyshnav%20M-blue?logo=linkedin)](https://www.linkedin.com/in/vyshnav-m-)
 
 ---
 
