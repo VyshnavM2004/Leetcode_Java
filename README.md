@@ -6,12 +6,12 @@ This repository contains my Java solutions to LeetCode problems as I practice Da
 
 
 ## Progress
-
 | # | Problem                                                                                                     | Difficulty | Solution |
 | - | ----------------------------------------------------------------------------------------------------------- | ---------- | -------- |
 | 1 | [Two Sum](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day1_TwoSum)                              | Easy       | ✔️       |
 | 2 | [Search Insert Position](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day2_SearchInsertPosition) | Easy       | ✔️       |
 | 3 | [Palindrome Number](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day3_PalindromeNumber)          | Easy       | ✔️       |
+| 4 | [Plus One](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day4_PlusOne)                            | Easy       | ✔️       |
 
 
 More solutions will be added regularly.
