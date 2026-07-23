@@ -15,6 +15,7 @@ This repository contains my Java solutions to LeetCode problems as I practice Da
 | 5 | [Remove Duplicates from Sorted Array](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day5_RemoveDuplicatesFromSortedArray) | Easy | ✔️ |
 | 6 | [Sqrt(x)](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day6_Sqrt%28x%29) | Easy | ✔️ |
 | 7 | [Pow(x, n)](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day7_PowX%5En) | Medium | ✔️ |
+
 More solutions will be added regularly.
 
 ## Languages
