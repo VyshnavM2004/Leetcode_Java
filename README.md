@@ -17,8 +17,8 @@ This repository contains my Java solutions to LeetCode problems as I practice Da
 |  7  | [Pow(x, n)](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day7_PowX%5En)                                                  |   Medium   |    ✔️    |
 |  8  | [Valid Palindrome](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day8_ValidPalindrome)                                    |    Easy    |    ✔️    |
 |  9  | [Reverse String](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day9_ReverseString)                                        |    Easy    |    ✔️    |
-|  10 | [Reverse Linked List](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day10_ReverseLinkedList)                              |    Easy    |    ✔️    |
-
+| 10  | [Reverse Linked List](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day10_ReverseLinkedList)                              |    Easy    |    ✔️    |
+| 11  | [Valid Anagram](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day11_ValidAnagram)                                          |    Easy    |    ✔️    |
 
 More solutions will be added regularly.
 
