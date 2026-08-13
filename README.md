@@ -24,6 +24,7 @@ This repository contains my Java solutions to LeetCode problems as I practice Da
 |  14 | [Intersection of Two Linked Lists](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day14_IntersectionOfTwoLinkedList)       |    Easy    |         ✔️        |
 |  15 | [Design Linked List](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day15_DesignLL)                                        |   Medium   |         ✔️        |
 |  16 | [Valid Parentheses](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day16_ValidParentheses)                                |    Easy    |         ✔️        |
+|  17 | [Third Maximum Number](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day17_ThirdMaximumNumber)                            |    Easy    |         ✔️        |
 
 
 More solutions will be added regularly.
