@@ -25,6 +25,7 @@ This repository contains my Java solutions to LeetCode problems as I practice Da
 |  15 | [Design Linked List](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day15_DesignLL)                                        |   Medium   |         ✔️        |
 |  16 | [Valid Parentheses](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day16_ValidParentheses)                                |    Easy    |         ✔️        |
 |  17 | [Third Maximum Number](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day17_ThirdMaximumNumber)                            |    Easy    |         ✔️        |
+|  18 | [Monotonic Array](https://github.com/VyshnavM2004/Leetcode_Java/tree/main/Day18_MonotonicArray)                                    |    Easy    |         ✔️        |
 
 
 More solutions will be added regularly.
